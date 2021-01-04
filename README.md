@@ -5,7 +5,7 @@
  Gradient based blending of empty marked space in an image 
  ![Alt text](./task_1.jpg?raw=true "task 1")
  
- Original Image -
+ 
  ![Alt text](./womanyellingcat.jpg?raw=true "task 1")
 
  ## Variant 2_A
